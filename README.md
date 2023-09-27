@@ -2,4 +2,5 @@
 
 ## Objective 
 
-This is where we will place an object. 
+- [ ] Create a manual
+- [ ] Things 
